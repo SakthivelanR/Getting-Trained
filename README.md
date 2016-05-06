@@ -1,0 +1,2 @@
+# Getting-Trained
+git installed
